@@ -1,2 +1,2 @@
 # Gear-Hub
-A social app for "nerds" of any hobby to share the gear they use.
+I made this as an excuse to learn Vue.js.
