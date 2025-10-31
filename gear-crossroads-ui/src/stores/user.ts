@@ -3,24 +3,25 @@ import axios from 'axios';
 
 interface UserState {
     token: string;
-    user: any | null;
+    email: string;
 }
 
 export const useUserStore = defineStore('user', {
     state: (): UserState => ({
         token: localStorage.getItem('token') || '',
-        user: null,
+        email: ''
     }),
     actions: {
-        async login(email: string, password: string) {
-            const response = await axios.post('https://localhost:5001/api/auth/login', { email, password });
-            this.token = response.data.token;
-            localStorage.setItem('token', this.token);
+        setToken(token: string) {
+            this.token = token;
+            localStorage.setItem('token', token);
+            axios.defaults.headers.common['Authorization'] = `Bearer ${token}`;
         },
         logout() {
             this.token = '';
-            this.user = null;
+            this.email = '';
             localStorage.removeItem('token');
-        },
-    },
+            delete axios.defaults.headers.common['Authorization'];
+        }
+    }
 });
