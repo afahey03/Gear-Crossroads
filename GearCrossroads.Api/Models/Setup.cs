@@ -12,5 +12,5 @@ public class Setup
     public ApplicationUser Owner { get; set; }
 
     public ICollection<SetupItem> SetupItems { get; set; } = new List<SetupItem>();
-    public ICollection<SetupTag> SetupTags { get; set; } = new List<SetupTag>(); // ✅ add this
+    public ICollection<SetupTag> SetupTags { get; set; } = new List<SetupTag>();
 }

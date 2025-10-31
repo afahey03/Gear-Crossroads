@@ -44,7 +44,6 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-// ===== 4. Controllers & Swagger =====
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -56,7 +55,6 @@ builder.Services.AddSwaggerGen(c =>
         Description = "API for sharing user setups and gear"
     });
 
-    // JWT Auth in Swagger
     var securityScheme = new OpenApiSecurityScheme
     {
         Name = "Authorization",
@@ -77,7 +75,6 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// ===== 5. Middleware =====
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();

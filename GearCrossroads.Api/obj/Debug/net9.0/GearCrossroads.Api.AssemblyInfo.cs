@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GearCrossroads.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7804c88210780de7f6973ea788b419c0111b89f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f91db8a4b1076f0605cf8bb7b2d3ac719d8c7bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("GearCrossroads.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GearCrossroads.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
