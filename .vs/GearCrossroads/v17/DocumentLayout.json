@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\models\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Models\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\AuthDtos.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Models\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:26:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:25:41.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GearCrossroads.Api\\Properties\\launchSettings.json",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ItemsController.cs",
               "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Controllers\\ItemsController.cs",
               "RelativeDocumentMoniker": "GearCrossroads.Api\\Controllers\\ItemsController.cs",
@@ -51,18 +85,17 @@
               "RelativeToolTip": "GearCrossroads.Api\\Controllers\\ItemsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T02:19:34.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T02:19:34.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Program.cs",
               "RelativeDocumentMoniker": "GearCrossroads.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Program.cs",
               "RelativeToolTip": "GearCrossroads.Api\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T00:23:02.945Z",
               "EditorCaption": ""
