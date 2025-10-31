@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\models\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\models\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|c:\\users\\aidan fahey\\desktop\\gear-crossroads\\gearcrossroads.api\\models\\setupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7784E54-686E-447F-A299-4CF841969D9E}|GearCrossroads.Api\\GearCrossroads.Api.csproj|solutionrelative:gearcrossroads.api\\models\\setupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\appsettings.json",
+              "RelativeToolTip": "GearCrossroads.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T00:48:30.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:24:07.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\appsettings.Development.json",
+              "RelativeToolTip": "GearCrossroads.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T00:23:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Program.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:23:02.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:22:28.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\Tag.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:21:57.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SetupItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\SetupItem.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Models\\SetupItem.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\SetupItem.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Models\\SetupItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:21:32.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\Setup.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Models\\Setup.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\Setup.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Models\\Setup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:21:06.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "GearCrossroads.Api\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Aidan Fahey\\Desktop\\Gear-Crossroads\\GearCrossroads.Api\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "GearCrossroads.Api\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:20:23.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
