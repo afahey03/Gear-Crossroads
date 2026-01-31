@@ -9,7 +9,6 @@ Gear Crossroads is a web platform designed for enthusiasts to create, share, and
 - **Community Sharing:** Explore and view setups created by other users, fostering inspiration and knowledge sharing.
 - **Profile Management:** Each user has a customizable profile with display name and avatar upload.
 - **Item Management:** Add, edit, and remove items from setups, with the ability to manage item details.
-- **Modern UX:** Features a clean, responsive interface with custom alerts, confirmation dialogs, and instant feedback for actions.
 
 ## Tech Stack
 
@@ -25,7 +24,7 @@ Gear Crossroads is a web platform designed for enthusiasts to create, share, and
 ### Backend
 - **ASP.NET Core (C#)**
 - **Entity Framework Core**
-- **MySQL**
+- **MySQL AWS RDS**
 - **Identity & JWT Authentication**
 - **Static File Serving**
 
