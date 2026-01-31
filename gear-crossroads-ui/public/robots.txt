@@ -1,0 +1,38 @@
+# Block malicious and abusive bots
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+User-agent: Yandex
+User-agent: MJ12bot
+User-agent: BLEXBot
+User-agent: DataForSeoBot
+User-agent: PetalBot
+User-agent: MegaIndex
+User-agent: CCBot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: Bytespider
+Disallow: /
+
+# Allow legitimate search engines to crawl the entire site
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+User-agent: *
+Allow: /
+
+# Disallow pages that require authentication
+Disallow: /setups
+Disallow: /upvoted
+Disallow: /admin/
+Disallow: /profile
+
+# Sitemap location (update this URL when you create a sitemap)
+Sitemap: https://gearcrossroads.com/sitemap.xml
+
+# Optional: Crawl delay (uncomment if needed)
+# Crawl-delay: 1

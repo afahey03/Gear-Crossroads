@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.log
+*.tmp
+.git
+.gitignore
+docker-compose.yml
+node_modules/

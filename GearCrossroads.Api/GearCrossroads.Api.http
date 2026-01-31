@@ -1,0 +1,6 @@
+@GearCrossroads.Api_HostAddress = http://localhost:5231
+
+GET {{GearCrossroads.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
