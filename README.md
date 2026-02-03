@@ -13,8 +13,8 @@ Gear Crossroads is a web platform designed for enthusiasts to create, share, and
 ## Tech Stack
 
 ### Frontend
-- **Vue.js**
 - **TypeScript**
+- **Vue.js**
 - **Tailwind CSS**
 
 ### Backend
