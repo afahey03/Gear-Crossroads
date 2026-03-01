@@ -3,6 +3,8 @@
 
 Gear Crossroads is a web platform designed for enthusiasts to create, share, and manage equipment setups for various hobbies and activities. Whether you're into photography, music, gaming, or any gear-intensive pursuit, Gear Crossroads provides a collaborative space to showcase your setups, discover others' configurations, and connect with like-minded users.
 
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/3af53a62-485d-4e7e-98fe-1c66c3020651" />
+
 ## Purpose
 
 - **Showcase Setups:** Users can create detailed setups, including descriptions, images, and associated items.
