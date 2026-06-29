@@ -1,5 +1,4 @@
 # Gear Crossroads
-**NOTICE:** Gear Crossroads has been retired. I have made the repo public for sharing, but the site is no longer active.
 
 Gear Crossroads is a web platform designed for enthusiasts to create, share, and manage equipment setups for various hobbies and activities. Whether you're into photography, music, gaming, or any gear-intensive pursuit, Gear Crossroads provides a collaborative space to showcase your setups, discover others' configurations, and connect with like-minded users.
 
